@@ -1,0 +1,8 @@
+site_name: Privacy & Policy
+site_url: https://mustafatunc.github.io/NetworkSecurityPolicy/
+nav:
+  - Ana Sayfa: index.md
+
+theme:
+  name: windmill
+
